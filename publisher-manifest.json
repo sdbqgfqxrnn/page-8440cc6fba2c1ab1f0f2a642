@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "d633494b97851a3039639463",
+  "owner": "sdbqgfqxrnn",
+  "repo": "page-8440cc6fba2c1ab1f0f2a642",
+  "title": "直连",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "8440cc6fba2c1ab1f0f2a642",
+      "a": "直连",
+      "b": "2027最新官网",
+      "entity": "直连",
+      "brand": "直连",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "7820eb701e85c76b13e6e0c299f4c0c9e3a78a1ead5021f259df64c6042b6577",
+      "content": {
+        "primary_entity": "直连",
+        "keyword1": "直连",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_DESCRIPTION": "，直连品牌提供海外加速线路，适合流媒体、游戏和应用跨境访问。三档套餐按流量、设备数和线路质量分层，基础版每月 100GB 支持 3 台设备，旗舰版每月 300GB 支持 5 台设备并含 IPLC 专线，团队版每月 1000GB 支持 20 台设备。按年付可省两个月费用，订阅后可导入主流客户端使用。",
+          "AI_HERO_SUBTITLE": "直连海外，按需选套餐",
+          "AI_HERO_INTRO": "直连品牌面向需要海外网络加速的用户，提供基础版、旗舰版和团队版三档套餐。流量从每月 100GB 到 1000GB，设备数从 3 台到 20 台，按需选择即可。",
+          "AI_VISUAL_TITLE": "直连，稳定连海外",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人到团队",
+          "AI_HIGHLIGHT_2": "流量设备数按需升级",
+          "AI_HIGHLIGHT_3": "年付省两个月费用",
+          "AI_FEATURES_TITLE": "套餐与设备",
+          "AI_FEATURES_INTRO": "按设备数量和月流量选择套餐，兼顾个人使用与团队协作。",
+          "AI_FEATURE_TITLE_1": "按流量选档",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、旗舰版每月 300GB、团队版每月 1000GB，按日常用量选即可。",
+          "AI_FEATURE_TITLE_2": "按设备数选档",
+          "AI_FEATURE_TEXT_2": "基础版支持 3 台、旗舰版支持 5 台、团队版支持 20 台设备同时在线，手机电脑平板共用。",
+          "AI_FEATURE_TITLE_3": "按周期选付费",
+          "AI_FEATURE_TEXT_3": "旗舰版月付 ¥35，年付 ¥350，相当于省两个月；团队版年付 ¥850，适合长期使用。",
+          "AI_CLIENTS_TITLE": "客户端适配",
+          "AI_CLIENTS_INTRO": "在手机、电脑或路由器上按设备类型选择对应客户端，导入订阅后即可使用。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版 ¥15/月，旗舰版 ¥35/月，团队版 ¥85/月。年付分别 ¥150、¥350、¥850，按流量和设备数选择合适档位。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_GUIDE_INTRO": "先确认需求，再选套餐，最后按客户端文档配置。",
+          "AI_STEP_TITLE_1": "确认需求",
+          "AI_STEP_TEXT_1": "统计常用设备数量和每月大致流量，确定需要基础版、旗舰版还是团队版。",
+          "AI_STEP_TITLE_2": "查看适配",
+          "AI_STEP_TEXT_2": "确认常用设备是否支持所需客户端，并了解同一账号可同时登录的设备上限。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "购买后获取订阅信息，按对应客户端文档导入，在设备上连接节点使用。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "选好套餐，连上直连",
+          "AI_CLOSING_TEXT": "按设备数和流量选一档套餐，年付更划算，配置完成后即可连接使用。",
+          "AI_FAQ_TITLE": "订阅常见问题",
+          "AI_FAQ_QUESTION_1": "订阅后如何导入客户端？",
+          "AI_FAQ_ANSWER_1": "订阅成功后获取订阅链接，在所选客户端中找到订阅或配置导入入口，粘贴链接并更新即可。不同客户端操作位置略有差异，可参考对应文档。",
+          "AI_FAQ_QUESTION_2": "基础版和旗舰版的主要区别是什么？",
+          "AI_FAQ_ANSWER_2": "基础版每月100GB流量、支持3台设备在线；旗舰版每月300GB流量、支持5台设备在线，并使用IPLC专线优化游戏延迟。用量较大或对延迟敏感可选旗舰版。",
+          "AI_FAQ_QUESTION_3": "团队版适合哪些使用情况？",
+          "AI_FAQ_ANSWER_3": "团队版每月1000GB流量、支持20台设备在线，提供VIP专属高带宽节点和企业定制路由，适合小团队多人共享或设备数量较多的场景。",
+          "AI_FAQ_QUESTION_4": "年付比月付便宜多少？",
+          "AI_FAQ_ANSWER_4": "基础版年付150元、旗舰版年付350元、团队版年付850元，相比按月支付可节省两个月左右费用，长期使用选择年付更划算。",
+          "AI_FAQ_QUESTION_5": "同时在线设备数量如何计算？",
+          "AI_FAQ_ANSWER_5": "同一时间保持连接的设备会被计入在线数量。基础版3台、旗舰版5台、团队版20台，超出后可断开不用的设备再连接新设备。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--e-zn6a77hswienw.com",
+    "host": "xn--e-zn6a77hswienw.com"
+  },
+  "file_hashes": {
+    "index.html": "1c4e5f11393fc8fcb1befd3bbcb8bdec53732f6f19c41577ec808a3d948613f3",
+    "sitemap.xml": "c1c55014c3f2c03ea46eb7510040e333f9f2fe7b04de86984c6e9ba793fce6aa",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "f4660e72d1791fd4ec4e36d5d8ddf6c08b8cd5d22a7366f7b5620e40133a585d",
+    "robots.txt": "a3b7ac2c7687de1a811b81f43cbbf903fda92ca4426f0c29ae3aabc9c38c81a6",
+    "3f2ee12dfe8851ea5d9c90a39bb9262e.txt": "6e50ca8ecc1b198706ad6ed36340a5e3f7af780a3b364d9b7ff78e1faa80b14f"
+  },
+  "revision": "405026d81ee836118d34056520fb7d475d52d4b68bd91333f75b67dea3c1cfa5"
+}
